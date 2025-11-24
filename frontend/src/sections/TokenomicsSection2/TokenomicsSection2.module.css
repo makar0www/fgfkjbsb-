@@ -57,7 +57,7 @@
 
 /* Персонаж слева */
 .character {
-	max-width: 260px;
+	max-width: 460px;
 	filter: drop-shadow(0 18px 40px rgba(0, 0, 0, 0.9));
 	animation: piggyFloat 6s ease-in-out infinite;
 }
