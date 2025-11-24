@@ -48,7 +48,7 @@ const Header = () => {
             TOKENOMICS
           </a>
           <a
-            href="https://dexscreener.com/solana/HU1qaZFFLNneXjnjaqvSKekALVyGtHcbxA2ykDPHpump"
+            href="https://www.kuru.io/swap?from=0x0000000000000000000000000000000000000000&to=0x6358288eef7a497c6791c777ab9180ca551e1a55"
             className={styles.link}
             target="_blank"
             rel="noreferrer"
@@ -59,7 +59,7 @@ const Header = () => {
 
         {/* BUY — только десктоп */}
         <div className={styles.desktopButton}>
-          <Button link="https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=HU1qaZFFLNneXjnjaqvSKekALVyGtHcbxA2ykDPHpump" />
+          <Button link="https://www.kuru.io/swap?from=0x0000000000000000000000000000000000000000&to=0x6358288eef7a497c6791c777ab9180ca551e1a55" />
         </div>
 
         {/* круглая кнопка с пигги + бургер — только мобилка */}
@@ -107,7 +107,7 @@ const Header = () => {
             TOKENOMICS
           </a>
           <a
-            href="https://dexscreener.com/solana/HU1qaZFFLNneXjnjaqvSKekALVyGtHcbxA2ykDPHpump"
+            href="https://www.kuru.io/swap?from=0x0000000000000000000000000000000000000000&to=0x6358288eef7a497c6791c777ab9180ca551e1a55"
             className={styles.mobileLink}
             target="_blank"
             rel="noreferrer"
@@ -116,7 +116,7 @@ const Header = () => {
           </a>
 
           <div className={styles.mobileButtonWrapper}>
-            <Button link="https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=HU1qaZFFLNneXjnjaqvSKekALVyGtHcbxA2ykDPHpump" />
+            <Button link="https://www.kuru.io/swap?from=0x0000000000000000000000000000000000000000&to=0x6358288eef7a497c6791c777ab9180ca551e1a55" />
           </div>
         </nav>
       </div>
