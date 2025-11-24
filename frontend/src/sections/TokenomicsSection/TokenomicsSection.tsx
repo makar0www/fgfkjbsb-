@@ -23,11 +23,11 @@ export const TokenomicsSection: React.FC = () => {
 
           <div className={styles.contract}>
             <div className={styles.contractLabel}>CONTRACT ADDRESS</div>
-            <div className={styles.contractValue}>HU1qaZFFLNnegttnjaqvSKekALVyGtHcbxA2ykDPHpump</div>
+            <div className={styles.contractValue}>0x6358288eef7a497c6791c777ab9180ca551e1a55</div>
           </div>
         </div>
       </div>
     </section>
-  );
+  ); 
 };
  

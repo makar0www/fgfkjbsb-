@@ -4,7 +4,7 @@ import piggy from "../../assets/piggy.png";
 import Marquee from "../../components/Marquee/Marquee";
 
 const HeroSection = () => {
-  return (
+  return ( 
     <section id="hero" className={styles.hero}>
       <img
         src={ovalOffice}

@@ -12,7 +12,7 @@ export const TokenomicsSection2: React.FC = () => {
             <p className={styles.item}>MONAD.</p>
             <p className={styles.item}>MONAD.</p>
           </div>
-
+ 
           <img src={piggy} alt="Piggy" className={styles.character} />
         </div>
       </div>

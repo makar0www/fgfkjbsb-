@@ -8,7 +8,7 @@ const Header = () => {
 
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen((prev) => !prev);
-  };
+  }; 
 
   const closeMobileMenu = () => {
     setIsMobileMenuOpen(false);
@@ -29,15 +29,20 @@ const Header = () => {
             MOLANDAK
           </a>
           <a
-            href="https://x.com/i/communities/1990687348791853131"
+            href="https://x.com/MOLANDAKmon"
             className={styles.link}
             target="_blank"
             rel="noreferrer"
           >
             X
           </a>
-          <a href="#general" className={styles.link}>
-            GENERAL
+          <a
+            href="https://t.me/monaldak"
+            className={styles.link}
+            target="_blank"
+            rel="noreferrer"
+          >
+            TG
           </a>
           <a href="#tokenomics" className={styles.link}>
             TOKENOMICS
@@ -83,15 +88,20 @@ const Header = () => {
             MOLANDAK
           </a>
           <a
-            href="https://x.com/i/communities/1990687348791853131"
+            href="https://x.com/MOLANDAKmon"
             className={styles.mobileLink}
             target="_blank"
             rel="noreferrer"
           >
             X
           </a>
-          <a href="#general" className={styles.mobileLink}>
-            GENERAL
+          <a
+            href="https://t.me/monaldak"
+            className={styles.mobileLink}
+            target="_blank"
+            rel="noreferrer"
+          >
+            TG
           </a>
           <a href="#tokenomics" className={styles.mobileLink}>
             TOKENOMICS

@@ -25,7 +25,7 @@ function App() {
       </main>
 
       {/* всплывающий тост с контрактом в правом нижнем углу */}
-      <ContractToast address="HU1qaZFFLNneXjnjaqvSKekALVyGtHcbxA2ykDPHpump" />
+      <ContractToast address="0x6358288eef7a497c6791c777ab9180ca551e1a55" />
     </div>
   );
 }
