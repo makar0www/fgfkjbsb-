@@ -3,7 +3,7 @@ import piggy from "../../assets/piggy.png";
 
 export const TokenomicsSection2: React.FC = () => {
   return (
-    <section id="tokenomics" className={styles.tokenomics}>
+    <section id="monad" className={styles.tokenomics}>
       <div className={styles.overlay}>
         {/* центральная часть: слева текст, справа персонаж */}
         <div className={styles.midRow}>
