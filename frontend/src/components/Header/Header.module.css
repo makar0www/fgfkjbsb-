@@ -46,7 +46,7 @@
 }
 
 .logoIcon {
-	width: 32px;
+	width: 60px;
 	height: auto;
 	object-fit: cover;
 }
@@ -145,7 +145,7 @@
 	}
 
 	.mobileIcon {
-		width: 26px;
+		width: 90px;
 		height: auto;
 		filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.9));
 	}
